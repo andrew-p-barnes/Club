@@ -1,0 +1,11 @@
+----query age fee----
+Total Club Member size: 7
+Age based fee income distribution
+(0,8): $0.00
+(8,18): $5.00
+(18,65): $185.00
+(65,-): $0.00
+Unknown: $90.00
+-------------------------
+
+

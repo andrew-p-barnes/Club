@@ -1,0 +1,21 @@
+delete Taylor Delete; 10000001
+
+add mobile 1111ab11; name WrongMobile White
+add name MissingMobile White
+
+
+
+add name Tom Update; mobile 10000009; birthday 12/1/2000; fee $70
+
+add name Taylor WrongFee; mobile 00000004; birthday 12/1/2010; fee $5
+
+add name Taylor WrongEmail; mobile 00000005; birthday 12/1/1960; fee $15.0
+
+add name Taylor Add; mobile 10000001; fee $100
+
+add name Taylor MultiAddr; mobile 10000002; fee $90
+
+sort ascending
+
+query age fee
+

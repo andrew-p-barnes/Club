@@ -1,0 +1,47 @@
+birthday 12-1-1993
+name Taylor Add
+mobile 10000001
+
+
+name Taylor WrongMobile
+mobile 00000a02
+
+name Taylor12 WrongName
+mobile 10000002
+
+name Taylor MultiAddr
+mobile 10000002
+address 1 Grace Street, 
+         Lane Cove,
+         NSW,
+		 2066
+
+address 1 Grace Street, 
+         Lane Cove,
+         NSW,
+		 2a66		 
+name Taylor WrongAddr
+mobile 10000005
+
+
+
+name Taylor WrongDate
+mobile 10000003
+birthday 22/13/1993
+
+name Taylor WrongFee
+mobile 00000004
+fee $-13 
+		 
+name Taylor WrongEmail
+mobile 00000005
+email t.b@gmail@com
+
+name Taylor Delete
+mobile 10000001
+birthday 12/12/1993
+
+name Tom Update
+mobile 10000009
+birthday 12/1/1993
+
